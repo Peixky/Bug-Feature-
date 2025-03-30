@@ -1,0 +1,14 @@
+# 忽略 Unity 產生的暫存檔案
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+Packages/
+ProjectSettings/EditorBuildSettings.asset
+
+# 避免提交 Mac / Windows 產生的系統檔案
+.DS_Store
+Thumbs.db
